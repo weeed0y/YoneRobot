@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/weeed0y/YoneRobot",
  "addons": [
     {
        "options": {
@@ -39,7 +39,7 @@
     "API_HASH": {
        "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "da866bcad3446898c4d4a20fa10b9d09"
+       "value": "1857bff69bf46fc192b4066d895a6bb2"
     },    
     "SQLALCHEMY_DATABASE_URI": {
        "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -49,7 +49,7 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "1697409878"
+       "value": "2043276182 5172687176"
     },
 
     "BOT_NAME": {
@@ -59,12 +59,12 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "kumjojass"
+       "value": "kk_legend"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "league_of_bots"
+       "value": "Python_Userbot_Support_Pro"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
@@ -73,13 +73,13 @@
     },
     "INSPECTOR": {
        "description": "A space separated list of user IDs who you want to assign as inspector users.",
-       "required": false,
-       "value": ""
+       "required": true,
+       "value": "2043276182"
     },
     "REQUESTER": {
        "description": "A space separated list of user IDs who you wanna assign as requester(gban perms only).",
-       "required": false,
-       "value": ""
+       "required": true,
+       "value": "2043276182"
     },
     "ENV": {
        "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -96,7 +96,7 @@
        "value": ""
     },
     "URL": {
-       "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
+       "description": "The Heroku App URL :-  https://legendyonekk.herokuapp.com/",
        "required": false,
        "value": ""
     },
